@@ -1,4 +1,6 @@
-# future
+# Future theme
+
+Demo: [here!](https://powerdot.github.io/vue3-shop-template-future/)
 
 ## Project setup
 ```
